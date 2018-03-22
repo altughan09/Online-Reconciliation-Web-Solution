@@ -7,4 +7,4 @@ Currently working on an online account reconciliation tool that;
 2) simplifies the reconciliation process,
 3) informs of incoming reconciliation requests.
 
-The tool code will soon be available here.
+The whole code will soon be available here.
