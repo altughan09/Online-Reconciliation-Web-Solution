@@ -1,7 +1,7 @@
 # Online-Reconciliation-Web-Solution
 Java, Spring, Hibernate
 
-Online account reconciliation software that 
+Currently working on an online account reconciliation tool that 
 
 1) lets companies save time and reduce costs,
 2) simplifies the reconciliation process,
